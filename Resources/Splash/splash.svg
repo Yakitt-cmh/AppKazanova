@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 456 456" width="456" height="456">
+	<title>splash</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffffff } 
+		.t1 { font-size: 135px;fill: #ffffff;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<path class="s0" d="m228.3 277.1h-54.4v-99.4h52.2v14h-36.2v28.2h33.4v13.9h-33.4v29.4h38.4z"/>
+	<text id="K" style="transform: matrix(1,0,0,1,202,279)" >
+		<tspan x="0" y="0" class="t1">K</tspan><tspan  y="0" class="t1">
+</tspan>
+	</text>
+</svg>

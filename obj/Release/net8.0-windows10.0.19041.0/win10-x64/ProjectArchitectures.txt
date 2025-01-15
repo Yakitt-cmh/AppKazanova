@@ -1,0 +1,1 @@
+C:\Users\User\Desktop\AppKazanova\AppKazanova.csproj;x64
